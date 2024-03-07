@@ -5,7 +5,7 @@ The Jacaranda Framework
 The Jacaranda Framework is a free Java framework realized at the University of Applied Sciences of Southern Switzerland (SUPSI) with the intention to provide an easy and customizable design for the implementation of different finite-state machines (FSM). 
 The added value in respect to other implementations is the framework character of the system, which offers different flexible and customizable parts (hot spots) through which the user not only can change, as usual, the content of the finite-state machine updating the input document with different states and arcs relations, but also customize it in different ways, including type of arcs, kind of output, way of traversing, etc., creating its own instance of the desired FSM. The framework has been used as backbone for some commercial systems. 
 
-One of them is the CanooNet German Language Portal, a web-based application for the German language, including a morphological analyzer, a spell checker, a dictionary, and a thesaurus. The system has been recently integrated into Leo.org, the most important German-English dictionary on the web. 
+One of them is the CanooNet German Language Portal, a web-based application for the German language, including a morphological analyzer, a spell checker, a dictionary, and a thesaurus. The system has been recently integrated into [Leo.org](https://dict.leo.org/pages/about/ende/canoonet_de.html), the most important German-English dictionary on the web. 
 
 ## Documentation
 
