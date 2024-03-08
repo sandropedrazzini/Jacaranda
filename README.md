@@ -13,6 +13,7 @@ The documentation includes different single documents, as well as the javadoc ge
 
 The documents are the following:
 - [Brief introduction](./documentation/introduction/introduction.md) to the project in general,  finite-state machines and motivations for the framework.
+- [Verify](./documentation/introduction/introduction.html) bla
 - Framework architecture overview, with some insides into the implementation
 - How to write an application. Cookbook for the application developer, including the explanations of two different delivered applications.
 - How to use an application. Quick guide for the application user, i.e. the user who needs to embed a Jacaranda application within its own application code.
