@@ -9,17 +9,8 @@ One of them is the CanooNet German Language Portal, a web-based application for 
 
 ## Documentation
 
-The documentation includes different single documents, as well as the javadoc generated API internal documentation. 
+The [documentation](https://people.dti.supsi.ch/~sandro.pedrazzini/jacaranda/index.html) includes different single documents, as well as the javadoc generated API internal documentation. 
 
-The documents are the following:
-- [Brief introduction](./documentation/introduction/introduction.md) to the project in general,  finite-state machines and motivations for the framework.
-- Framework architecture overview, with some insides into the implementation
-- How to write an application. Cookbook for the application developer, including the explanations of two different delivered applications.
-- How to use an application. Quick guide for the application user, i.e. the user who needs to embed a Jacaranda application within its own application code.
-- Advanced features of the framework. Explanations on how the application developer can extend some functionalities of the framework.
-- For test infected only. A brief explanation on how the tests have been conceived and how they can be extended.
-- References. A list of references used for the design and implementation of the system, not cited in the rest of the documentation.
-- [The Jacaranda Picture Show](./documentation/show/show.md). An informal explanation of the "shaken Jacaranda" algorithm.
                            
 ## The Framework Name
 
